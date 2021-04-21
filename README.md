@@ -1,4 +1,4 @@
-## univ-ai_hackathon
+# UNIV.ai Hackathon
 
 Problem Statement
 
@@ -6,6 +6,7 @@ An organization wants to predict who possible defaulters are for the consumer lo
 
 Submissions will be evaluated on the basis of roc_auc_score. Only the last submission will be considered for the leaderboard.
 
+# Dataset Discription
 Column
 Description
 Type
@@ -22,6 +23,7 @@ current_house_years	Number of years in the current residence	int
 city	City of residence	string
 state	State of residence	string
 
+#Solution
 
 Participated in UNIV.ai hackathon and tried different models for classification.
 1. Did feature engineer on data.(scaled, normalized, and label encoded)
