@@ -23,7 +23,7 @@ current_house_years	Number of years in the current residence	int
 city	City of residence	string
 state	State of residence	string
 
-#Solution
+# Solution
 
 Participated in UNIV.ai hackathon and tried different models for classification.
 1. Did feature engineer on data.(scaled, normalized, and label encoded)
